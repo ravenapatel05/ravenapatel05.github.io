@@ -1,0 +1,20 @@
+.quote {
+    font-size: 30px;
+    font-family: 'Amiri', sans-serif;
+    color: #333333;
+    text-align: center;
+    margin-top: 50vh;
+    transform: translateY(-50%);
+    opacity: 0;
+    animation: fadeIn 2s ease-in-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
