@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/motivational-quotes/static/css/main.49a61835.css",
-    "main.js": "/motivational-quotes/static/js/main.a804ef90.js",
-    "static/js/787.972ccbb3.chunk.js": "/motivational-quotes/static/js/787.972ccbb3.chunk.js",
-    "index.html": "/motivational-quotes/index.html",
-    "main.49a61835.css.map": "/motivational-quotes/static/css/main.49a61835.css.map",
-    "main.a804ef90.js.map": "/motivational-quotes/static/js/main.a804ef90.js.map",
-    "787.972ccbb3.chunk.js.map": "/motivational-quotes/static/js/787.972ccbb3.chunk.js.map"
+    "main.css": "/static/css/main.49a61835.css",
+    "main.js": "/static/js/main.cff880c6.js",
+    "static/js/787.972ccbb3.chunk.js": "/static/js/787.972ccbb3.chunk.js",
+    "index.html": "/index.html",
+    "main.49a61835.css.map": "/static/css/main.49a61835.css.map",
+    "main.cff880c6.js.map": "/static/js/main.cff880c6.js.map",
+    "787.972ccbb3.chunk.js.map": "/static/js/787.972ccbb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49a61835.css",
-    "static/js/main.a804ef90.js"
+    "static/js/main.cff880c6.js"
   ]
 }
