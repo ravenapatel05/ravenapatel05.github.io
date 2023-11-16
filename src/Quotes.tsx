@@ -12,7 +12,7 @@ import './Quotes.scss';
 // ];
 
 const quotes = [ 
-  'LOL NVM 🤣 🫵 🥴 🤷‍♂️'
+  'LOL NVM 🤣 🫵 🥴 🤷‍♂️ ...'
 ];
 
 const Quotes: React.FC = () => {
